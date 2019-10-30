@@ -22,14 +22,14 @@ body {
   font-family: 'Open Sans', sans-serif;
   color : rgb(105, 105, 105);
   font-size : 17px;
-  line-height : 30px;
+  line-height : 25px;
 }
 
 h1, h2, h3 {
   color : rgb(250, 172, 62);
   font-family: 'Raleway', sans-serif;
   font-size: 1.5em;
-  line-height : 30px;
+  line-height : 25px;
 }
 
 a {
@@ -61,7 +61,7 @@ a:hover {
 
 .card-grey {
   background: rgb(235, 235, 235);
-  padding: 16px;
+  padding: 10px;
   border: 1px solid lightgrey;
 }
 
