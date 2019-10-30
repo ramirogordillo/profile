@@ -75,13 +75,14 @@ a:hover {
 }
 
 .icon-bigger {
-  font-size: 35px;
+  font-size: 45px;
 }
 
 .button-green {
   background-color: rgb(114, 196, 172);
   padding: 10px;
   border-radius: 4px;
+  line-height: 60px;
 }
 .button-green:hover {
   background-color: rgb(127, 219, 192);
